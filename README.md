@@ -8,6 +8,11 @@
     <li>📫 You can contact me raj.mah55@gmail.com</li>
 </ul>
 
+<h2 align="left"> Please check my Portfolie Project below:-</h2>
+<h5>1) React JS + Redux Tookit (Shopping Cart): <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Me</a></h5>
+<h5>2) Only Javascript (Currency Converter): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Me</a></h5>
+
+
 <p><a href="https://codesupports.github.io/rajkumar-profile.github.io/" target="_blank">Check Profile (Resume)</a></p>
 
 <h4 align="left">Connect with me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-maheshwari-48b32923/"
