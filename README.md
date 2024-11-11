@@ -8,7 +8,7 @@
     <li>📫 You can contact me raj.mah55@gmail.com</li>
 </ul>
 
-<h2 align="left"> Please check my portfolio Project below:-</h2>
+<h2 align="left"> Please check my portfolio Practice Project below:-</h2>
 <h4>1) Shopping Cart (React JS + Redux Tookit): <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Me</a></h4>
 <h4>2) Currency Converter (Only Vanila JavaScript): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Me</a></h4>
 <h4>2) ToDo App (React Js): <a href="https://codesupports.github.io/ToDo-App-React/" target="_blank">Click Me</a></h4>
