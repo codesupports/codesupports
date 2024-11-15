@@ -5,17 +5,17 @@
     <li>⚛️ I love to learn new things, technologies and interesting stuff</li>
     <li>🤾‍♂️ I felt myself positive, self driven, hard working and friendly</li>
     <li>💬 ReactJS, JS, HTML, CSS, RWD, SCSS</li>
-    <li>📫 You can contact me raj.mah55@gmail.com</li>
+    <li>📫 You can contact me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raj.mah55@gmail.com"> raj.mah55@gmail.com</a></li>
 </ul>
+<h6>My Resume: <a href="https://codesupports.github.io/rajkumar-profile.github.io/" target="_blank">Click Here</a></h6>
 
-<h2 align="left"> Please check my portfolio Practice Project below:-</h2>
-<h4>1) Shopping Cart (React JS + Redux Tookit): <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Me</a></h4>
-<h4>2) Currency Converter (Only Vanila JavaScript): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Me</a></h4>
+<h2 align="left"> Please check my practice portfolio project below:-</h2>
+<h4>1) Product Listing Page (React JS + Redux Toolkit + SCSS) : <a href="https://codesupports.github.io/Product-Listing-App-React" target="_blank">Click Me</a></h4>
 <h4>2) ToDo App (React Js): <a href="https://codesupports.github.io/ToDo-App-React/" target="_blank">Click Me</a></h4>
-<h4>2) Product Listing Page (React JS + Redux Toolkit + SCSS) : <a href="https://codesupports.github.io/Product-Listing-App-React" target="_blank">Click Me</a></h4>
-<h4>2) Weather App (React JS + SCSS) : <a href="https://codesupports.github.io/weather-app/" target="_blank">Click Me</a></h4>
+<h4>3) Weather App (React JS + SCSS) : <a href="https://codesupports.github.io/weather-app/" target="_blank">Click Me</a></h4>
+<h4>4) Shopping Cart (React JS + Redux Tookit): <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Me</a></h4>
+<h4>5) Currency Converter (Only Vanila JavaScript): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Me</a></h4>
 
-<p><a href="https://codesupports.github.io/rajkumar-profile.github.io/" target="_blank">Check Profile (Resume)</a></p>
 
 <h4 align="left">Connect with me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-maheshwari-48b32923/"
         target="blank"><img align="center"
