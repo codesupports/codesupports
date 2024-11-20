@@ -8,13 +8,38 @@
     <li>📧 You can contact me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raj.mah55@gmail.com"> raj.mah55@gmail.com</a></li>
 </ul>
 <h6>My Resume: <a href="https://codesupports.github.io/rajkumar-profile.github.io/" target="_blank">Click Here</a></h6>
+<h6>My Profile: <a href="https://codesupports.github.io/rajmaheshwari/" target="_blank">Click Here</a></h6>
+
 
 <h2 align="left"> Please check my practice portfolio project below:-</h2>
-<h4>1) Product Listing Page (React JS + Redux Toolkit + SCSS) : <a href="https://codesupports.github.io/Product-Listing-App-React" target="_blank">Click Me</a></h4>
-<h4>2) ToDo App (React Js): <a href="https://codesupports.github.io/ToDo-App-React/" target="_blank">Click Me</a></h4>
-<h4>3) Weather App (React JS + SCSS) : <a href="https://codesupports.github.io/weather-app/" target="_blank">Click Me</a></h4>
-<h4>4) Shopping Cart (React JS + Redux Tookit): <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Me</a></h4>
-<h4>5) Currency Converter (Only Vanila JavaScript): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Me</a></h4>
+  <table>
+        <tr>
+            <td>(1)</td>
+            <td><h4>Product Listing Page (React JS + Redux Toolkit + SCSS) : <a href="https://codesupports.github.io/Product-Listing-App-React" target="_blank">Click Me</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p1.png" width="100px"></td>
+        </tr>
+        <tr>
+            <td>(2)</td>
+            <td><h4>ToDo App (React Js): <a href="https://codesupports.github.io/ToDo-App-React/" target="_blank">Click Here</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p4.png" width="100px"></td>
+        </tr>
+        <tr>
+            <td>(3)</td>
+            <td><h4>Weather App (React JS + SCSS): <a href="https://codesupports.github.io/weather-app/" target="_blank">Click Here</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p2.png" width="100px"></td>
+        </tr>
+        <tr>
+            <td>(4)</td>
+            <td><h4>Shopping Cart (React JS + Redux Tookit):<a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Here</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p3.png" width="100px"></td>
+        </tr>
+        <tr>
+            <td>(4)</td>
+            <td><h4>Currency Converter (Only Vanila JavaScript):<a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Here</a</h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p5.png"></td>
+        </tr>
+    </table>
+
 
 
 <h4 align="left">Connect with me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-maheshwari-48b32923/"
