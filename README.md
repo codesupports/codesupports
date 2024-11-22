@@ -16,27 +16,27 @@
         <tr>
             <td>(1)</td>
             <td><h4>Product Listing Page (React JS + Redux Toolkit + SCSS) : <a href="https://codesupports.github.io/Product-Listing-App-React" target="_blank">Click Me</a></h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p1.png" width="100px"></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p1.png" width="80px"></td>
         </tr>
         <tr>
             <td>(2)</td>
             <td><h4>ToDo App (React Js): <a href="https://codesupports.github.io/ToDo-App-React/" target="_blank">Click Here</a></h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p4.png" width="100px"></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p4.png" width="80px"></td>
         </tr>
         <tr>
             <td>(3)</td>
             <td><h4>Weather App (React JS + SCSS): <a href="https://codesupports.github.io/weather-app/" target="_blank">Click Here</a></h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p2.png" width="100px"></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p2.png" width="80px"></td>
         </tr>
         <tr>
             <td>(4)</td>
-            <td><h4>Shopping Cart (React JS + Redux Tookit):<a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Here</a></h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p3.png" width="100px"></td>
+            <td><h4>Shopping Cart (React JS + Redux Tookit): <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Here</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p3.png" width="80px"></td>
         </tr>
         <tr>
             <td>(4)</td>
-            <td><h4>Currency Converter (Only Vanila JavaScript):<a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Here</a</h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p5.png"></td>
+            <td><h4>Currency Converter (Only Vanila JavaScript): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Here</a</h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p5.png" width="80px"></td>
         </tr>
     </table>
 
