@@ -7,8 +7,8 @@
     <li>💬 ReactJS, JS, HTML, CSS, RWD, SCSS</li>
     <li>📧 You can contact me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raj.mah55@gmail.com"> raj.mah55@gmail.com</a></li>
 </ul>
-<h6>My Resume: <a href="https://codesupports.github.io/rajkumar-profile.github.io/" target="_blank">Click Here</a></h6>
-<h6>My Profile: <a href="https://codesupports.github.io/rajmaheshwari/" target="_blank">Click Here</a></h6>
+<h5>My Resume: <a href="https://codesupports.github.io/rajkumar-profile.github.io/" target="_blank">Click Here</a></h5>
+<h5>My Profile: <a href="https://codesupports.github.io/rajmaheshwari/" target="_blank">Click Here</a></h5>
 
 
 <h2 align="left"> Please check my practice portfolio project below:-</h2>
