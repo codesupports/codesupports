@@ -33,8 +33,13 @@
             <td><h4>Shopping Cart (React JS + Redux Tookit): <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Here</a></h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p3.png" width="80px"></td>
         </tr>
+      <tr>
+            <td>(5)</td>
+            <td><h4>React Js Crud App: (ReactJS + Tailwind CSS) <a href="https://codesupports.github.io/crud-app-react/" target="_blank">Click Here</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p5.png" width="80px"></td>
+        </tr>
         <tr>
-            <td>(4)</td>
+            <td>(6)</td>
             <td><h4>Currency Converter (Only Vanila JavaScript): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Here</a</h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p5.png" width="80px"></td>
         </tr>
