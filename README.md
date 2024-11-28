@@ -41,7 +41,7 @@
         <tr>
             <td>(6)</td>
             <td><h4>Currency Converter (Only Vanila JavaScript): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Here</a</h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p5.png" width="80px"></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p6.png" width="80px"></td>
         </tr>
     </table>
 
