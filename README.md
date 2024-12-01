@@ -43,6 +43,11 @@
             <td><h4>Currency Converter (Only Vanila JavaScript): <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Here</a</h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p6.png" width="80px"></td>
         </tr>
+      <tr>
+            <td>(&)</td>
+            <td><h4> Upcoming Project:-<br/> Food App (React JS + Redux Toolkit + Tailwind CSS + Best Practices): <a href="https://codesupports.github.io/Food-App-React/" target="_blank">Click Here</a</h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p7.png" width="80px"></td>
+        </tr>
     </table>
 
 
