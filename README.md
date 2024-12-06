@@ -13,40 +13,40 @@
 
 <h2 align="left"> Please check my practice portfolio project below:-</h2>
   <table>
-        <tr>
+      <tr>
             <td>(1)</td>
-            <td><h4>Product Listing Page<br/>Tech Stack:-React JS, Redux Toolkit, Custom Hooks, Lazyload, SCSS <a href="https://codesupports.github.io/Product-Listing-App-React" target="_blank">Click Me</a></h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p1.png" width="70px"></td>
+            <td><h4> React Food Delevery App<br/>Tech Stack:- React JS, Redux Toolkit, Tailwind CSS, Responsive, Best Practices: <a href="https://codesupports.github.io/Food-App-React/" target="_blank">Click Here</a</h4></td>
+            <td><img src="https://codesupports.github.io/Food-App-React/p7.jpg" width="70px"></td> 
         </tr>
         <tr>
             <td>(2)</td>
-            <td><h4>React ToDo App<br/>Tech Stack:- React Js <a href="https://codesupports.github.io/ToDo-App-React/" target="_blank">Click Here</a></h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p4.png" width="70px"></td>
+            <td><h4>Product Listing Page<br/>Tech Stack:-React JS, Redux Toolkit, Responsive, Custom Hooks, Lazyload, SCSS <a href="https://codesupports.github.io/Product-Listing-App-React" target="_blank">Click Me</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p1.png" width="70px"></td>
         </tr>
-        <tr>
+      <tr>
             <td>(3)</td>
-            <td><h4>Weather App<br/>Tech Stack:-React JS, SCSS <a href="https://codesupports.github.io/weather-app/" target="_blank">Click Here</a></h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p2.png" width="70px"></td>
-        </tr>
-        <tr>
-            <td>(4)</td>
-            <td><h4>Shopping Cart<br/>Tech Stack:-React JS, Redux Tookit <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Here</a></h4></td>
+            <td><h4>Shopping Cart<br/>Tech Stack:-React JS, Redux Tookit, Responsive, Best Practices <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Here</a></h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p3.png" width="70px"></td>
         </tr>
       <tr>
-            <td>(5)</td>
-            <td><h4>React Js Crud App<br/>Tech Stack:-ReactJS, Tailwind CSS <a href="https://codesupports.github.io/crud-app-react/" target="_blank">Click Here</a></h4></td>
+            <td>(4)</td>
+            <td><h4>React Js Crud App<br/>Tech Stack:-ReactJS, Tailwind CSS, Responsive <a href="https://codesupports.github.io/crud-app-react/" target="_blank">Click Here</a></h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p5.png" width="70px"></td>
         </tr>
         <tr>
+            <td>(5)</td>
+            <td><h4>React ToDo App<br/>Tech Stack:- React Js, Responsive, <a href="https://codesupports.github.io/ToDo-App-React/" target="_blank">Click Here</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p4.png" width="70px"></td>
+        </tr>
+        <tr>
             <td>(6)</td>
+            <td><h4>Weather App<br/>Tech Stack:-React JS, Responsive, SCSS <a href="https://codesupports.github.io/weather-app/" target="_blank">Click Here</a></h4></td>
+            <td><img src="https://codesupports.github.io/rajmaheshwari/p2.png" width="70px"></td>
+        </tr>
+        <tr>
+            <td>(7)</td>
             <td><h4>Currency Converter<br/>Tech Stack:- Only Vanila JavaScript <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Here</a</h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p6.png" width="70px"></td>
-        </tr>
-      <tr>
-            <td>(7)</td>
-            <td><h4> Upcoming Project:- Food App<br/>Tech Stack:- React JS, Redux Toolkit, Tailwind CSS, Best Practices: <a href="https://codesupports.github.io/Food-App-React/" target="_blank">Click Here</a</h4></td>
-            <td><img src="https://codesupports.github.io/rajmaheshwari/p7.png" width="70px"></td>
         </tr>
     </table>
 
