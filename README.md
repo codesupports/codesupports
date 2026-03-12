@@ -10,6 +10,14 @@
 <h4>My Resume: <a href="https://codesupports.github.io/rajkumar-profile.github.io/" target="_blank">Click Here</a></h4>
 <h4>My Profile: <a href="https://codesupports.github.io/rajmaheshwari/" target="_blank">Click Here</a></h4>
 <h2 align="left"> Please check my practice portfolio project below:-</h2>
+<table>
+      <tr>
+            <td>(1)</td>
+            <td><h4> Next Js App<br/>Tech Stack:- NextJs, React JS, TypeScript, Tailwind CSS,  Best Practices: <a href="https://codesupports.github.io/React-Nextjs-Project/" target="_blank">Click Here</a</h4></td>
+            <td><img src="https://codesupports.github.io/React-Nextjs-Project/nextapp.png" width="70px"></td> 
+        </tr>
+    </table>
+
   <table>
       <tr>
             <td>(1)</td>
