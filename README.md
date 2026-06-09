@@ -19,7 +19,7 @@
       <tr>
             <td>(2)</td>
             <td><h4> Next Js App<br/>Tech Stack:- NextJs, React JS, TypeScript, Tailwind CSS,  Best Practices: <a href="https://codesupports.github.io/React-Nextjs-Project/" target="_blank">Click Here</a</h4></td>
-            <td><img src="https://codesupports.github.io/React-Nextjs-Project/nextapp.png" width="70px"></td> 
+            <td><img src="https://private-user-images.githubusercontent.com/85394585/605022906-434af37a-71dd-42c3-86ec-0f6e3952a174.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEwMDA0OTYsIm5iZiI6MTc4MTAwMDE5NiwicGF0aCI6Ii84NTM5NDU4NS82MDUwMjI5MDYtNDM0YWYzN2EtNzFkZC00MmMzLTg2ZWMtMGY2ZTM5NTJhMTc0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA5VDEwMTYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY5OWM2NGY2MTg0NjQ1ZDcxMTUyMWQyYTE5ZjUzYjVhM2YxYjc5NWQ3MjQxMjMzYWFmNDIyMWFmYTg0YWYwOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.rO3e3jU6sUNZH_OCXUTZds5I1mzhUqbkO5DCoCOXm3Y" width="70px"></td> 
         </tr>
     </table>
 
