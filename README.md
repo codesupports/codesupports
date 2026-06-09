@@ -11,8 +11,13 @@
 <h4>My Profile: <a href="https://codesupports.github.io/rajmaheshwari/" target="_blank">Click Here</a></h4>
 <h2 align="left"> Please check my practice portfolio project below:-</h2>
 <table>
-      <tr>
+    <tr>
             <td>(1)</td>
+            <td><h4>🤖 AI ChatBot<br/>Tech Stack:- React JS, Vite, Tailwind CSS, Gemini API  Best Practices: <a href="https://codesupports.github.io/AI-Chatbot/" target="_blank">Click Here</a</h4></td>
+            <td><img src="https://private-user-images.githubusercontent.com/85394585/605017017-72f04e21-ae94-4237-88b8-def2e55edff3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEwMDAxMjEsIm5iZiI6MTc4MDk5OTgyMSwicGF0aCI6Ii84NTM5NDU4NS82MDUwMTcwMTctNzJmMDRlMjEtYWU5NC00MjM3LTg4YjgtZGVmMmU1NWVkZmYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA5VDEwMTAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhM2Q0OTNhZTRlMzI2ZDM1ZjFmMjI3NzNhMzhjZDI2MzlhNWFmYjYyMGNlMTVhMWMyMWM4NWQxZTcxYTE2YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.xb7Re8UCZaAVWnRBbGw7E4bFSkyIEPLC8nlgb9YVmIE" width="70px"></td> 
+        </tr>
+      <tr>
+            <td>(2)</td>
             <td><h4> Next Js App<br/>Tech Stack:- NextJs, React JS, TypeScript, Tailwind CSS,  Best Practices: <a href="https://codesupports.github.io/React-Nextjs-Project/" target="_blank">Click Here</a</h4></td>
             <td><img src="https://codesupports.github.io/React-Nextjs-Project/nextapp.png" width="70px"></td> 
         </tr>
@@ -20,37 +25,37 @@
 
   <table>
       <tr>
-            <td>(1)</td>
+            <td>(3)</td>
             <td><h4> React Food Delevery App<br/>Tech Stack:- React JS, Redux Toolkit, Tailwind CSS, Responsive, Best Practices: <a href="https://codesupports.github.io/Food-App-React/" target="_blank">Click Here</a</h4></td>
             <td><img src="https://codesupports.github.io/Food-App-React/p7.jpg" width="70px"></td> 
         </tr>
         <tr>
-            <td>(2)</td>
+            <td>(4)</td>
             <td><h4>Product Listing Page<br/>Tech Stack:-React JS, Redux Toolkit, Responsive, Custom Hooks, Lazyload, SCSS <a href="https://codesupports.github.io/Product-Listing-App-React" target="_blank">Click Me</a></h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p1.png" width="70px"></td>
         </tr>
       <tr>
-            <td>(3)</td>
+            <td>(5)</td>
             <td><h4>Shopping Cart<br/>Tech Stack:-React JS, Redux Tookit, Responsive, Best Practices <a href="https://codesupports.github.io/react-shoes-cart/" target="_blank">Click Here</a></h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p3.png" width="70px"></td>
         </tr>
       <tr>
-            <td>(4)</td>
+            <td>(6)</td>
             <td><h4>React Js Crud App<br/>Tech Stack:-ReactJS, Tailwind CSS, Responsive <a href="https://codesupports.github.io/crud-app-react/" target="_blank">Click Here</a></h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p5.png" width="70px"></td>
         </tr>
         <tr>
-            <td>(5)</td>
+            <td>(7)</td>
             <td><h4>React ToDo App<br/>Tech Stack:- React Js, Responsive, <a href="https://codesupports.github.io/ToDo-App-React/" target="_blank">Click Here</a></h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p4.png" width="70px"></td>
         </tr>
         <tr>
-            <td>(6)</td>
+            <td>(8)</td>
             <td><h4>Weather App<br/>Tech Stack:-React JS, Responsive, SCSS <a href="https://codesupports.github.io/weather-app/" target="_blank">Click Here</a></h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p2.png" width="70px"></td>
         </tr>
         <tr>
-            <td>(7)</td>
+            <td>(9)</td>
             <td><h4>Currency Converter<br/>Tech Stack:- Only Vanila JavaScript <a href="https://codesupports.github.io/currency-converter.github.io/" target="_blank">Click Here</a</h4></td>
             <td><img src="https://codesupports.github.io/rajmaheshwari/p6.png" width="70px"></td>
         </tr>
