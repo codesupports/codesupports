@@ -1,10 +1,12 @@
-<h3 align="left">Hi there, I'm Raj Kumar Maheshwari</h3>
-<h4 align="left">I am a passionate Sr. frontend developer/UI Developer from India</h4>
+<h3 align="left">Hi, I'm Raj Kumar Maheshwari 👋</h3>
+<h4>Frontend Engineer | React.js | JavaScript | Next.js</h4>
+<h4 align="left">I'm a Frontend Engineer with professional experience building scalable, responsive, and user-focused web applications. I specialize in React.js, JavaScript, Next.js, Redux, TypeScript, HTML, CSS, and modern frontend development practices.<br/>
+I enjoy turning complex requirements into clean, maintainable, and high-performance user interfaces.</h4>
 <ul>
     <li>🤝 I am open to collaborate with other digital content creators</li>
     <li>⚛️ I love to learn new things, technologies and interesting stuff</li>
     <li>🤾‍♂️ I felt myself positive, self driven, hard working and friendly</li>
-    <li>💬 ReactJS, JS, HTML, CSS, RWD, SCSS</li>
+    <li>💬 ReactJS, NextJS, JavaScript, Redux Toolkit, Tailwind, TypeScript, HTML, CSS, RWD, SCSS</li>
     <li>📧 You can contact me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=raj.mah55@gmail.com"> raj.mah55@gmail.com</a></li>
 </ul>
 <h4>My Resume: <a href="https://codesupports.github.io/rajkumar-profile.github.io/" target="_blank">Click Here</a></h4>
