@@ -1,5 +1,5 @@
 <h3 align="left">Hi, I'm Raj Kumar Maheshwari 👋</h3>
-<h4>Senior React Frontend Engineer | React.js | JavaScript | Next.js | Fullstack | NodeJs | MongoDB</h4>
+<h4>Senior React & AI Product Engineer | Building Production-Ready AI Features for Web Applications</h4>
 <h4 align="left">I'm a Frontend Engineer with professional experience building scalable, responsive, and user-focused web applications. I specialize in React.js, JavaScript, Next.js, Redux, TypeScript, HTML, CSS, and modern frontend development practices.<br/>
 I enjoy turning complex requirements into clean, maintainable, and high-performance user interfaces.</h4>
 <ul>
