@@ -16,7 +16,7 @@ I enjoy turning complex requirements into clean, maintainable, and high-performa
     <tr>
             <td>(1)</td>
             <td><h4>Operation Flow – Workflow & Request Management System (Fullstack App) <br/>Tech Stack:- NextJs, React JS, React Query, Tailwind CSS  <a href="https://opration-flow-app.vercel.app/login" target="_blank">Click Here</a></h4></td>
-            <td><img src="https://private-user-images.githubusercontent.com/85394585/605017017-72f04e21-ae94-4237-88b8-def2e55edff3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEwMDAxMjEsIm5iZiI6MTc4MDk5OTgyMSwicGF0aCI6Ii84NTM5NDU4NS82MDUwMTcwMTctNzJmMDRlMjEtYWU5NC00MjM3LTg4YjgtZGVmMmU1NWVkZmYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjA5VDEwMTAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhM2Q0OTNhZTRlMzI2ZDM1ZjFmMjI3NzNhMzhjZDI2MzlhNWFmYjYyMGNlMTVhMWMyMWM4NWQxZTcxYTE2YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.xb7Re8UCZaAVWnRBbGw7E4bFSkyIEPLC8nlgb9YVmIE" width="70px"></td> 
+            <td><img src="https://raw.githubusercontent.com/codesupports/oprationFlowApp/refs/heads/main/public/Thumbnail.png" width="70px"></td> 
         </tr>
     <tr>
             <td>(2)</td>
